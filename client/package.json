@@ -1,0 +1,19 @@
+{
+  "name": "front-scumbag-webapp",
+  "version": "0.1.0",
+  "description": "Front end for the scumbag web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neoware/scumbag-webapp.git"
+  },
+  "author": "Alexandre Chaouat & Dov Rimo",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Neoware/scumbag-webapp/issues"
+  },
+  "homepage": "https://github.com/Neoware/scumbag-webapp#readme"
+}
